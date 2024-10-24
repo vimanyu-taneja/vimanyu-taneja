@@ -1,6 +1,6 @@
 # Vimanyu Taneja
 
-1st Year Computer Science Student at [King’s College](https://www.kings.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/).
+2nd Year Computer Science Student at [King’s College](https://www.kings.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/).
 
 Worked as a founding engineer (full-stack) at [Breakthrough Maths](https://breakthroughmaths.com/) for a year.
 
