@@ -2,10 +2,6 @@
 
 2nd Year Computer Science Student at [King’s College](https://www.kings.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/).
 
-Worked as a founding engineer (full-stack) at [Breakthrough Maths](https://breakthroughmaths.com/) for a year.
-
-Interested in finance and technology. Looking for internship opportunities.
-
 ## Contact
 
 - LinkedIn: [vimanyu-taneja](https://www.linkedin.com/in/vimanyu-taneja/)
