@@ -1,6 +1,6 @@
 # Vimanyu Taneja
 
-2nd Year Computer Science Student at [King’s College](https://www.kings.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/).
+Final Year Computer Science Student at [King’s College](https://www.kings.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/).
 
 ## Contact
 
